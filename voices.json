@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-14",
+  "players": [
+    {
+      "playerName": "Puppy Chow",
+      "voice": {
+        "name": "Daniel",
+        "lang": "en-GB"
+      },
+      "recordings": {
+        "intro": null
+      },
+      "visibility": "public",
+      "note": "Initial opt-in test entry; voice preference can be changed."
+    }
+  ]
+}
