@@ -3,6 +3,18 @@
   "updatedAt": "2026-10-15",
   "players": [
     {
+      "playerName": "Puppy Chow",
+      "voice": {
+        "name": "Daniel",
+        "lang": "en-GB"
+      },
+      "recordings": {
+        "intro": null
+      },
+      "visibility": "public",
+      "note": "STAGING reference copied from existing published test preference."
+    },
+    {
       "playerName": "Pat Dry",
       "voice": {
         "name": "Alex",
