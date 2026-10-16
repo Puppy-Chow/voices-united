@@ -1,5 +1,30 @@
 {
   "schemaVersion": 1,
-  "updatedAt": null,
-  "players": []
+  "updatedAt": "2026-10-15",
+  "players": [
+    {
+      "playerName": "Pat Dry",
+      "voice": {
+        "name": "Alex",
+        "lang": "en-US"
+      },
+      "recordings": {
+        "intro": null
+      },
+      "visibility": "public",
+      "note": "STAGING TEST ONLY — placeholder voice, not a verified player preference."
+    },
+    {
+      "playerName": "Turtle Man",
+      "voice": {
+        "name": "Daniel",
+        "lang": "en-GB"
+      },
+      "recordings": {
+        "intro": null
+      },
+      "visibility": "public",
+      "note": "STAGING TEST ONLY — placeholder voice, not a verified player preference."
+    }
+  ]
 }
